@@ -1,0 +1,14 @@
+﻿Form Builder and Generator for Bootstrap 3
+http://bootsnipp.com/forms
+
+協助將 BS3 昇級到 BS4 的線上工具:
+http://upgrade-bootstrap.bootply.com/
+
+Bootstrap 官方的 Migrating to v4 改版說明文件:
+https://getbootstrap.com/docs/4.0/migration/
+
+W3Schools 的 Bootstrap 4 教學:
+https://www.w3schools.com/bootstrap4/default.asp
+
+Bootstrap 4 中文手冊（六角學院譯）：
+https://bootstrap.hexschool.com/
